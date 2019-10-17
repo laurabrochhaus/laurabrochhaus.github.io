@@ -4,3 +4,4 @@ Diese leckeren Himbeer-Cheesecake-Brownies bestehen aus zwei verschiedenen Rezep
 
 ![Himbeer-Cheesecake-Brownies](02.jpeg)
 
+![Cheesecake](03.jpg)
