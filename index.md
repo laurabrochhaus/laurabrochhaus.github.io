@@ -1,5 +1,6 @@
-# Was ist die Business Model Benchmark Map?
+# Ein Rezept für Himbeer-Cheesecake-Brownies
 
-![Palmen](01.jpg)
+Diese leckeren Himbeer-Cheesecake-Brownies bestehen aus zwei verschiedenen Rezepten. Zum einen aus einem Cheesecake Rezept mit Himbeeren und zum anderem einem klassischen Brownie Rezept.
 
-hallo
+![Himbeer-Cheesecake-Brownies](02.jpg)
+
