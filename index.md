@@ -1,6 +1,6 @@
 # Die Vor- und Nachteile von Freemium-Modellen am Beispiel von Spotify
 
-![Spotify].png
+![Spotify]png
 
 
 Inhaltsverzeichnis
