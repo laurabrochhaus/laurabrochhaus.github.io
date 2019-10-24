@@ -85,9 +85,9 @@ betriebswirtschaftliche Aspekte. Berlin: Springer Verlag.
  
 # 6 Erklärung an Eides Statt
 Hiermit versichere ich, dass ich diese Arbeit selbständig und ohne fremde Hilfe verfasst habe. Dabei habe ich keine anderen als die angegebenen Quellen und Hilfsmittel benutzt. Ich habe dabei keine urheberrechtlich geschützten Werke oder Werkteile unverändert übernommen oder in einer Weise umgearbeitet übernommen. Die Stellen in der Arbeit, die dem Wortlaut oder dem Sinn nach anderen Werken und Quellen – einschließlich der Quellen aus dem Internet – entnommen sind, sind von mir unter der Angabe der Quelle als Zitat kenntlich gemacht.
-Einräumung von Nutzungsrechten
+# Einräumung von Nutzungsrechten
 Zur Überprüfung der Arbeit auf Verstöße gegen das Urheberrecht und Plagiate setzt die CBS neben einer manuellen Prüfung auch sogenannte web-basierte Anti-Plagiatssoftware ein. Zur Durchführung der Überprüfung meiner Arbeit räume ich der CBS und ihren externen Dienstanbietern das Recht ein, die Arbeit auf elektronischem Weg zu vervielfältigen, zu speichern und zwischenzuspeichern sowie zeitlich unbeschränkt für Vergleichszwecke bei anderen Prüfungsarbeiten heranzuziehen. Ich willige dahingehend ein, dass meine Arbeit im Rahmen der Plagiatsprüfung gespeichert und genutzt wird, insbesondere an Anbieter einer web-basierten Plagiatssoftware auch im Ausland übermittelt werden kann, die diese nur für diesen Zweck verarbeitet und nutzt.
-Datenschutzerklärung
+# Datenschutzerklärung
 In einer Prüfungsarbeit können auch Aussagen über persönliche und sachliche Verhältnisse des betreffenden Studierenden oder anderer Personen enthalten sein. Die Erhebung, Speicherung und Nutzung solcher Daten ist nur bei Einwilligung des Betroffenen möglich. In diesem Zusammenhang versichere ich, dass alle betroffenen Personen (z.B. gegebenenfalls Interviewpartner) einer Veröffentlichung zugestimmt haben und ich geklärt habe, ob eine Anonymisierung gewünscht ist sowie dass alle personenbezogenen Daten derjenigen Personen anonymisiert wurden, die einer Veröffentlichung nur in anonymisierter Form zugestimmt haben. 
 
 Köln, 16.10.2019
